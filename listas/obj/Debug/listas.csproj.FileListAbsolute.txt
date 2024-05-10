@@ -1,0 +1,8 @@
+C:\Users\claudio.montoya\source\repos\funciones\listas\bin\Debug\listas.exe.config
+C:\Users\claudio.montoya\source\repos\funciones\listas\bin\Debug\listas.exe
+C:\Users\claudio.montoya\source\repos\funciones\listas\bin\Debug\listas.pdb
+C:\Users\claudio.montoya\source\repos\funciones\listas\obj\Debug\listas.csproj.AssemblyReference.cache
+C:\Users\claudio.montoya\source\repos\funciones\listas\obj\Debug\listas.csproj.SuggestedBindingRedirects.cache
+C:\Users\claudio.montoya\source\repos\funciones\listas\obj\Debug\listas.csproj.CoreCompileInputs.cache
+C:\Users\claudio.montoya\source\repos\funciones\listas\obj\Debug\listas.exe
+C:\Users\claudio.montoya\source\repos\funciones\listas\obj\Debug\listas.pdb
