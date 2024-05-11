@@ -1,0 +1,8 @@
+C:\Users\claudio.montoya\source\repos\funciones\practicoListas\bin\Debug\practicoListas.exe.config
+C:\Users\claudio.montoya\source\repos\funciones\practicoListas\bin\Debug\practicoListas.exe
+C:\Users\claudio.montoya\source\repos\funciones\practicoListas\bin\Debug\practicoListas.pdb
+C:\Users\claudio.montoya\source\repos\funciones\practicoListas\obj\Debug\practicoListas.csproj.AssemblyReference.cache
+C:\Users\claudio.montoya\source\repos\funciones\practicoListas\obj\Debug\practicoListas.csproj.SuggestedBindingRedirects.cache
+C:\Users\claudio.montoya\source\repos\funciones\practicoListas\obj\Debug\practicoListas.csproj.CoreCompileInputs.cache
+C:\Users\claudio.montoya\source\repos\funciones\practicoListas\obj\Debug\practicoListas.exe
+C:\Users\claudio.montoya\source\repos\funciones\practicoListas\obj\Debug\practicoListas.pdb
